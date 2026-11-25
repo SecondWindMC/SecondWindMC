@@ -1,20 +1,18 @@
 # SecondWindMC
 
-Lightweight Paper 1.21.x SMP mechanics plugins with practical death recovery, revive flow, and admin-friendly configuration.
+Practical game-development tools and Paper Minecraft server mechanics, built with a validation-first workflow.
 
-## Projects
+## Current projects
 
-- **SecondWind** — downed-but-not-out revives, crawling, bleed-out timers, executions, team rules, and anti-abuse controls.
-  - Repo: https://github.com/SecondWindMC/SecondWindRevive
-  - Hangar: https://hangar.papermc.io/SecondWindMC/SecondWindRevive
-- **GraveGuard** — restart-safe death graves with protected item recovery, exact XP restoration, holograms, and a return compass.
-  - Repo: https://github.com/SecondWindMC/GraveGuard
-  - Hangar: https://hangar.papermc.io/SecondWindMC/GraveGuard
+- **[SecondWind Revive](https://hangar.papermc.io/SecondWindMC/SecondWindRevive)** — restart-safe downed-but-not-out revives for Paper SMP servers.
+- **[GraveGuard](https://hangar.papermc.io/SecondWindMC/GraveGuard)** — restart-safe protected death chests with exact XP recovery.
+- **[Circuit UI SFX](https://secondwindmc.github.io/circuit-ui-sfx.html)** — 148 organized procedural retro game sound effects in WAV/OGG/MP3, with a [free CC0 sample](https://secondwindmc.github.io/free-retro-game-sound-effects.html).
+- **[Retro SFX Lab](https://secondwindmc.github.io/retro-sfx-lab.html)** — free browser-only retro SFX generator with WAV and batch ZIP export; [CC0 source mirror](https://github.com/SecondWindMC/CircuitUI-SFX/blob/main/tools/retro-sfx-lab.html).
 
-## Evidence and documentation
+## Links
 
-- Store and checkout: https://secondwindmc.github.io/
-- Automated Paper 1.21.11 validation report: https://secondwindmc.github.io/validation.html
-- Configuration reference: https://secondwindmc.github.io/docs.html
+- Store and product index: https://secondwindmc.github.io/
+- Validation notes: https://secondwindmc.github.io/validation.html
+- Support: secondwindmc@proton.me
 
-Support: secondwindmc@proton.me
+Most code and sample assets are published openly; paid downloads fund continued validation, packaging, and support.
