@@ -4,6 +4,7 @@ Practical game-development tools and Paper Minecraft server mechanics, built wit
 
 ## Current projects
 
+- **[BTCPay Digital Fulfillment](https://github.com/SecondWindMC/btcpay-digital-fulfillment)** — open-source serverless template for automatic digital-download delivery after verified BTCPay invoice settlement.
 - **[SecondWind Revive](https://hangar.papermc.io/SecondWindMC/SecondWindRevive)** — restart-safe downed-but-not-out revives for Paper SMP servers.
 - **[GraveGuard](https://hangar.papermc.io/SecondWindMC/GraveGuard)** — restart-safe protected death chests with exact XP recovery.
 - **[Circuit UI SFX](https://secondwindmc.github.io/circuit-ui-sfx.html)** — 148 organized procedural retro game sound effects in WAV/OGG/MP3, with a [free CC0 sample](https://secondwindmc.github.io/free-retro-game-sound-effects.html).
